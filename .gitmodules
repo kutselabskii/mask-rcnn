@@ -1,3 +1,6 @@
 [submodule "matterport"]
 	path = matterport
 	url = https://github.com/matterport/Mask_RCNN.git
+[submodule "keras_maskrcnn"]
+	path = keras_maskrcnn
+	url = https://github.com/fizyr/keras-maskrcnn.git

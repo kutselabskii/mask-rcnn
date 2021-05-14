@@ -151,3 +151,4 @@ mask_rcnn_*
 mrcnn/
 logs/
 venv3.7/
+annotations.csv
