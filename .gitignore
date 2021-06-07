@@ -148,7 +148,6 @@ cython_debug/
 .history/
 
 mask_rcnn_*
-mrcnn/
 logs/
 venv3.7/
 venv3/
